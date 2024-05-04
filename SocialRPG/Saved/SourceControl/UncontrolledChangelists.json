@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/_Maps/NewWorld.umap",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/_Blueprints/NPC/BP_NPCparent.uasset",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/_Blueprints/_Player/BP_Player.uasset",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/_Blueprints/_Player/Input/MC_Player.uasset",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/_Blueprints/_Player/Input/Actions/IA_Movement.uasset",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/_Blueprints/_Player/Input/C_Player.uasset",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/GameManaging/GI_Gameinstance.uasset",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/GameManaging/Gamemodes/GM_Explore.uasset",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/_Blueprints/_Player/Input/Actions/IA_Interact.uasset",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/_Blueprints/_Interfaces/BPI_Interact.uasset",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/_Blueprints/_Player/test.uasset",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/_Blueprints/_Player/test2.uasset",
+				"C:/Users/trist/OneDrive/Desktop/UE Projects/5.3/SocialRPG/Content/_Blueprints/_Player/En_LastMoveInput.uasset"
+			]
+		}
+	]
+}
